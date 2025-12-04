@@ -1,1 +1,10 @@
-# Folckrace-Robot
+## 4. Bill of Materials (BOM)
+
+| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL | Running Total ($ with Tax) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **DC Motors** | Drive Motors (6V 750RPM) | 4 | 15.00 | 60.00 | [https://www.jsumo.com/core-dc-motor-6v-750rpm](https://www.jsumo.com/core-dc-motor-6v-750rpm) | 64.80 |
+| **Wheels** | Aluminum - Silicone Wheel Set | 2 | 25.00 | 50.00 | [https://www.jsumo.com/jsumo-wheel-43x11mm-pair-soft-silicone](https://www.jsumo.com/jsumo-wheel-43x11mm-pair-soft-silicone) | 118.80 |
+| **Microcontroller** | ESP32-DevKitC Development Board | 1 | 15.99 | 15.99 | [https://grobotronics.com/esp32-development-board-devkit-v1.html](https://grobotronics.com/esp32-development-board-devkit-v1.html) | 135.50 |
+| **Sensors** | VL53L0X Time-of-Flight (ToF) | 5 | 5.00 | 25.00 | [https://www.temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601100157918115...](https://www.temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601100157918115&sku_id=17594988870614&adg_ctx=a-23f0a33e~c-6aa14a09~f-167eafd9&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_ns_sku_id=17594988870614&_x_ns_gid=601100157918115&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=772005384&_x_login_type=Google&_x_ns_gg_lnk_type=adr&_x_ads_account=6217438245&_x_ads_set=22821535431&_x_ads_id=188619669811&_x_ads_creative_id=765746251322&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA_8TJBhDNARIsAPX5qxS74_q9dhiTIvByNhVh8ld3DEGTAj0bWG-MgXinbjivbOwGYiuwb1QaAoYZEALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=772005384-en-17594988870614&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=CkEKCQiA3L_JBhDxARIwAHTwe8yn1e11-pFJWKQUheZHO7OYuOSTSn3rBLRa37kyxPEg2BQDQ9y3-UNT8ucWGgL0Rg&_x_ns_gbraid=0AAAAAo4mICHMEfKcJ0oOLcvVhMiL34SOE&_x_ns_targetid=pla-2625318551272&gad_source=1&gad_campaignid=22821535431&gbraid=0AAAAAo4mICHMEfKcJ0oOLcvVhMiL34SOE&gclid=Cj0KCQiA_8TJBhDNARIsAPX5qxS74_q9dhiTIvByNhVh8ld3DEGTAj0bWG-MgXinbjivbOwGYiuwb1QaAoYZEALw_wcB&is_back=1) | 162.00 |
+| **Motor Driver** | 0 | 1 | 0 | 0 || 0 |
+| **Power Supply** | 0 | 1 | 0 | 0 || 0 |
