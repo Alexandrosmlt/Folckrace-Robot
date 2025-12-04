@@ -1,4 +1,4 @@
-## 4. Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Item | Description | Quantity | Unit Price (€) | Total Price (€) | URL | Running Total (€ with Tax) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -6,5 +6,5 @@
 | **Wheels** | Aluminum - Silicone Wheel Set | 2 | 15.50 | 31.00 | [https://www.jsumo.com/jsumo-wheel-43x11mm-pair-soft-silicone](https://www.jsumo.com/jsumo-wheel-43x11mm-pair-soft-silicone) | 95.00 |
 | **Microcontroller** | ESP32-DevKitC Development Board | 1 | 9.90 | 9.90 | [https://grobotronics.com/esp32-development-board-devkit-v1.html](https://grobotronics.com/esp32-development-board-devkit-v1.html) | 104.90 |
 | **Sensors** | VL53L0X Time-of-Flight (ToF) | 5 | 2.50 | 12.50 | [https://www.temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601100157918115...](https://www.temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601100157918115&sku_id=17594988870614&adg_ctx=a-23f0a33e~c-6aa14a09~f-167eafd9&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_ns_sku_id=17594988870614&_x_ns_gid=601100157918115&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=772005384&_x_login_type=Google&_x_ns_gg_lnk_type=adr&_x_ads_account=6217438245&_x_ads_set=22821535431&_x_ads_id=188619669811&_x_ads_creative_id=765746251322&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA_8TJBhDNARIsAPX5qxS74_q9dhiTIvByNhVh8ld3DEGTAj0bWG-MgXinbjivbOwGYiuwb1QaAoYZEALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=772005384-en-17594988870614&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=CkEKCQiA3L_JBhDxARIwAHTwe8yn1e11-pFJWKQUheZHO7OYuOSTSn3rBLRa37kyxPEg2BQDQ9y3-UNT8ucWGgL0Rg&_x_ns_gbraid=0AAAAAo4mICHMEfKcJ0oOLcvVhMiL34SOE&_x_ns_targetid=pla-2625318551272&gad_source=1&gad_campaignid=22821535431&gbraid=0AAAAAo4mICHMEfKcJ0oOLcvVhMiL34SOE&gclid=Cj0KCQiA_8TJBhDNARIsAPX5qxS74_q9dhiTIvByNhVh8ld3DEGTAj0bWG-MgXinbjivbOwGYiuwb1QaAoYZEALw_wcB&is_back=1) | 117.40 |
-| **Motor Driver** | 0 | 1 | 0 | 0 || 0 |
-| **Power Supply** | 0 | 1 | 0 | 0 || 0 |
+| **Motor Driver** | Cytron MDD3A | 1 | 8.50 | 8.50 |[https://botland.store/motor-drivers-modules](https://botland.store/motor-drivers-modules/15819-cytron-mdd3a-dual-channel-16v-3a-motor-controller-5904422324841.html) | 125.90 |
+| **Battery** | Battery Lithium 18650 | 2 | 5.80 | 11.60 |[https://grobotronics.com/battery-lithium-18650-3.6v-3200mah](https://grobotronics.com/battery-lithium-18650-3.6v-3200mah-lg-inr18650-mh1.html?srsltid=AfmBOorO9rHicRFxCaTsiuH0z1Nu5r90yx-F4EEb-n_gA3Yru7VgAYtV)| 137.50 |
