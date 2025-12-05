@@ -1,4 +1,21 @@
 ## FOLCKRACE ROBOT
+**Date:** 2025-12-05
+### Task: Hardware Modeling
+* **Component:** Drive Motors (6V 750RPM)
+* **Goal:** Create an accurate 3D model of the Motors.
+* **Work Performed:** -None- The model was found in **[JSumo](https://www.dropbox.com/scl/fi/laliptgsevf1lr142pr5u/core-dc-motor-cad.rar?rlkey=csn9mtuwybz71bkc8az7yi1a1&e=1&dl=0)** 
+* **File Output:** `DcMotor.stl`
+* **Status:** Complete. Ready for import.
+![Status](/photos/DcMotor.png)
+
+### Task: Hardware Modeling
+* **Component:** Drive Motors (6V 750RPM)
+* **Goal:** Create an accurate 3D model of the Motors.
+* **Work Performed:** The board was modeled in **FreeCAD** 
+* **File Output:** `CYTRON-MMD3A.stl`
+* **Status:** Complete. Ready for import.
+![Status](/photos/mdd3a.png)
+
 **Date:** 2025-12-04
 ### Task: Hardware Modeling
 * **Component:** VL53L0X-V2 (ToF) Sensor
