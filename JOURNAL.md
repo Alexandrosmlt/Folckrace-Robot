@@ -13,9 +13,9 @@
 ### Task: Hardware Modeling
 * **Component:** Motor Mount**V2**
 * **Goal:** Design and create a 3D model for mounting x4 DC Motors to the chassis later on.
-* **Work Performed:** After printing and testing `MotorMountV1.stl`, the screws weren't fitting properly. 
+* **Work Performed:** After printing and testing `MotorMount.stl`, the screws weren't fitting properly. 
   The screw hole was enlarged for the head of the screw to fit, and dimensions for the srcews are now written on the back of the mount.
-* **File Output:** `MotorMountV2.stl`
+* **File Output:** `MotorMount.stl`
 * **Status:** Complete.
 * **Time Spent:** ~0.30h
 ![Status](/photos/MotorMountV2.png)
@@ -24,7 +24,7 @@
 * **Component:** Motor Mount 
 * **Goal:** Design and create a 3D model for mounting x4 DC Motors to the chassis later on.
 * **Work Performed:** The motor mount was modeled in **FreeCAD** 
-* **File Output:** `MotorMountV1.stl`
+* **File Output:** `MotorMount.stl`
 * **Status:** Complete. Ready for printing and testing.
 * **Time Spent:** ~0.50h
 ![Status](/photos/MotorMountV1.png)
