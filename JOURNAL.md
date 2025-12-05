@@ -1,5 +1,34 @@
 ## FOLCKRACE ROBOT
 **Date:** 2025-12-05
+
+### Task: Hardware Modeling
+* **Component:** Wheels
+* **Goal:** Create a 3D model for the wheels
+* **Work Performed:** The wheel was modeled in **FreeCAD** 
+* **File Output:** `Wheel.stl`
+* **Status:** Complete. Ready for import.
+* **Time Spent:** ~0.15h
+![Status](/photos/Wheel.png)
+
+### Task: Hardware Modeling
+* **Component:** Motor Mount**V2**
+* **Goal:** Design and create a 3D model for mounting x4 DC Motors to the chassis later on.
+* **Work Performed:** After printing and testing `MotorMountV1.stl`, the screws weren't fitting properly. 
+  The screw hole was enlarged for the head of the screw to fit, and dimensions for the srcews are now written on the back of the mount.
+* **File Output:** `MotorMountV2.stl`
+* **Status:** Complete.
+* **Time Spent:** ~0.30h
+![Status](/photos/MotorMountV2.png)
+
+### Task: Hardware Modeling
+* **Component:** Motor Mount 
+* **Goal:** Design and create a 3D model for mounting x4 DC Motors to the chassis later on.
+* **Work Performed:** The motor mount was modeled in **FreeCAD** 
+* **File Output:** `MotorMountV1.stl`
+* **Status:** Complete. Ready for printing and testing.
+* **Time Spent:** ~0.50h
+![Status](/photos/MotorMountV1.png)
+
 ### Task: Hardware Modeling
 * **Component:** ESP-32-DEV board
 * **Goal:** Create an accurate 3D model of the ESP32 board.
