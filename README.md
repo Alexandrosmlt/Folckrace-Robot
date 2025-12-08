@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features 4 **HS DC Motors** paired with 5 ToF sensors, providing precise feedback in real time.
+This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features 4 HS DC Motors paired with 5 ToF sensors, providing precise feedback in real time.
 
 ## 1.1 Why i am building this project
 
