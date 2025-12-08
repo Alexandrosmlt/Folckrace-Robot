@@ -2,11 +2,11 @@
 
 ## 1. Project Overview
 
-This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features high speed DC motors paired with ToF sensors, providing precise feedback in real time.
+This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features 4 **HS DC Motors** paired with 5 ToF sensors, providing precise feedback in real time.
 
 ## 1.1 Why i am building this project
 
-I am building the Folckrace Robot to get real-life experience in developing embedded systems and working with fast robotics controls. This project is a great challenge for me to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous, strong and competitive robot.
+I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is a great challenge for me to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
 
 <!-- ## 2. Hardware and Design
 
@@ -29,13 +29,13 @@ These pictures give a clear look at the robot mechanical parts displaying where 
 
 ## 3. Filmware and control
 
-The robots autonomy is managed using the **ESP32** microcontroller.
+The robots autonomy is managed using the **ESP32** microcontroller programed in Arduino IDE.
 
 * **Control System**: The primary control loop runs on the ESP32, using feedback from the ToF sensors to calculate the robot's position and speed relative to the track boundaries.
 
 * **Actuators**: The Cytron MDD3A motor driver controls the four 6V DC motors, implementing a high-frequency PWM signal for precise velocity and steering control.
 
-* **Sensors**: Five VL53L0X Time-of-Flight (ToF) sensors provide accurate distance readings, which are crucial for autonomous track following. -->
+* **Sensors**: Five VL53L0X Time-of-Flight (ToF) sensors provide accurate distance readings. -->
 
 ## 4. Bill of Materials (BOM)
 
