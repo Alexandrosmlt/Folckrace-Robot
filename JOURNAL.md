@@ -1,4 +1,31 @@
 ## FOLCKRACE ROBOT
+**Date:** 2025-12-08
+
+### Task: Hardware Modeling
+* **Component:** Base
+* **Goal:** Create a 3D model for the robots base.
+* **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for the motor driver (`CYTRON-MDD3A.stl`)
+* **Status:** Complete, Ready for use.
+* **Time Spent:** ~0.10h
+![Status](/photos/BaseV3.png)
+
+### Task: Hardware Modeling
+* **Component:** Base
+* **Goal:** Create a 3D model for the robots base.
+* **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for `SideBumper.stl` and `FrontBumper.stl`
+* **Status:** Complete, Ready for use.
+* **Time Spent:** ~0.30h
+![Status](/photos/BaseV2.png)
+
+### Task: Hardware Modeling
+* **Component:** Side Bumpers
+* **Goal:** Create a 3D model for the 2 side sensors to mount on.
+* **Work Performed:** Designed a single side bumper model in **FreeCAD** for the ToF sensors to mount on, which is the same for each side of the robot
+* **File Output:** `SideBumper.stl`
+* **Status:** Complete, Ready for printing 
+* **Time Spent:** ~1.00h
+![Status](/photos/SideBumper.png)
+
 **Date:** 2025-12-06
 
 ### Task: Hardware Modeling
@@ -6,7 +33,7 @@
 * **Goal:** Create a 3D model for the front sensors to mount on.
 * **Work Performed:** Designed a front bumper in **FreeCAD** for the ToF sensors to mount on
 * **File Output:** `FrontBumper.stl`
-* **Status:** Complete, Ready for printing and testing
+* **Status:** Complete, Ready for printing 
 * **Time Spent:** ~1.20h
 ![Status](/photos/FrontBumper.png)
 
