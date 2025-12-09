@@ -1,11 +1,34 @@
 ## FOLCKRACE ROBOT
 
-**Date:** 2025-12-08
+
+
+**Date:** 2025-12-09
+
+
+### Task: Hardware Modeling
+* **Component:** Base
+* **Goal:** Create a 3D model for the robots base.
+* **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for the `BackBumper.stl`
+* **File Output:** `Base.stl`
+* **Status:** Complete, Ready for use.
+* **Time Spent:** ~0.10h
+![Status](/photos/BaseV5.png)
+
+### Task: Hardware Modeling
+* **Component:** Side Bumpers
+* **Goal:** Create a 3D model for the 2 side sensors to mount on.
+* **Work Performed:** Designed a back bumper model in **FreeCAD** to protect the robot 
+* **File Output:** `BackBumper.stl`
+* **Status:** Complete, Ready for testing 
+* **Time Spent:** ~0.40h
+![Status](/photos/BackBumper.png)
+
 
 ### Task: Hardware Modeling
 * **Component:** Base
 * **Goal:** Create a 3D model for the robots base.
 * **Work Performed:** Updated the base in **FreeCAD** to include 11.5mm holes for the motor cables
+* **File Output:** `Base.stl`
 * **Status:** Complete, Ready for use.
 * **Time Spent:** ~0.10h
 ![Status](/photos/BaseV4.png)
@@ -13,10 +36,12 @@
 
 **Date:** 2025-12-08
 
+
 ### Task: Hardware Modeling
 * **Component:** Base
 * **Goal:** Create a 3D model for the robots base.
 * **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for the motor driver (`CYTRON-MDD3A.stl`)
+* **File Output:** `Base.stl`
 * **Status:** Complete, Ready for use.
 * **Time Spent:** ~0.10h
 ![Status](/photos/BaseV3.png)
@@ -25,6 +50,7 @@
 * **Component:** Base
 * **Goal:** Create a 3D model for the robots base.
 * **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for `SideBumper.stl` and `FrontBumper.stl`
+* **File Output:** `Base.stl`
 * **Status:** Complete, Ready for use.
 * **Time Spent:** ~0.30h
 ![Status](/photos/BaseV2.png)
@@ -38,7 +64,9 @@
 * **Time Spent:** ~1.00h
 ![Status](/photos/SideBumper.png)
 
+
 **Date:** 2025-12-06
+
 
 ### Task: Hardware Modeling
 * **Component:** Front Bumper
@@ -59,7 +87,9 @@
 * **Time Spent:** ~0.30h
 ![Status](/photos/Base.png)
 
+
 **Date:** 2025-12-05
+
 
 ### Task: Hardware Modeling
 * **Component:** Wheels
@@ -71,12 +101,12 @@
 ![Status](/photos/Wheel.png)
 
 ### Task: Hardware Modeling
-* **Component:** Motor Mount**V2**
+* **Component:** Motor Mount
 * **Goal:** Design and create a 3D model for mounting x4 DC Motors to the chassis later on.
 * **Work Performed:** After printing and testing `MotorMount.stl`, the screws weren't fitting properly. 
-  The screw hole was enlarged for the head of the screw to fit, and dimensions for the srcews are now written on the back of the mount.
+  The screw hole was enlarged for the head of the screw to fit and dimensions for the srcews are now written on the back of the mount.
 * **File Output:** `MotorMount.stl`
-* **Status:** Complete, Ready for use.
+* **Status:** Complete, Ready for printing and testing.
 * **Time Spent:** ~0.30h
 ![Status](/photos/MotorMountV2.png)
 
@@ -116,7 +146,11 @@
 * **Time Spent:** ~0.30h
 ![Status](/photos/mdd3a.png)
 
+
+
 **Date:** 2025-12-04
+
+
 ### Task: Hardware Modeling
 * **Component:** VL53L0X-V2 (ToF) Sensor
 * **Goal:** Create an accurate 3D model of the ToF sensor.
