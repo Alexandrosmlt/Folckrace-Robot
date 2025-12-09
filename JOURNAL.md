@@ -1,4 +1,16 @@
 ## FOLCKRACE ROBOT
+
+**Date:** 2025-12-08
+
+### Task: Hardware Modeling
+* **Component:** Base
+* **Goal:** Create a 3D model for the robots base.
+* **Work Performed:** Updated the base in **FreeCAD** to include 11.5mm holes for the motor cables
+* **Status:** Complete, Ready for use.
+* **Time Spent:** ~0.10h
+![Status](/photos/BaseV4.png)
+
+
 **Date:** 2025-12-08
 
 ### Task: Hardware Modeling
