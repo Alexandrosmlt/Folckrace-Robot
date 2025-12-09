@@ -8,17 +8,23 @@ This is a special autonomous robot made for Folkrace (which is a robot competiti
 
 I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is a great challenge for me to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
 
-<!-- ## 2. Hardware and Design
+## 2. Hardware and Design
 
 ### 2.1 3D Model Visualization
 
-These pictures give a clear look at the robot mechanical parts displaying where everything is placed, how the chassis is made and the direction of the sensors.
+* **Front View**:
+![Front](/photos/Front.png)
+* **Rear View**:
+![Rear](/photos/Rear.png)
+* **Right View**:
+![Right](/photos/Right.png)
+* **Left View**:
+![Left](/photos/Left.png)
+* **Final View**:
+![Final](/photos/Final.png)
 
-* **Front View**: 
-* **Rear View**: 
-* **Top-Down View**:
 
-### 2.2 Custom PCB Design 
+<!-- ### 2.2 Custom PCB Design 
 
 
 * **PCB Screenshot**:
