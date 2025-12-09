@@ -1,13 +1,19 @@
 ## FOLCKRACE ROBOT
 
 
+
 **Date:** 2025-12-09
 
+# HARDWARE MODELING COMPLETED
+
+## **Final 3D Visualization:**
+
+![Final](/photos/Final.png)
 
 ### Task: Hardware Modeling
 * **Component:** Base
 * **Goal:** Create a 3D model for the robots base.
-* **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for the `BackBumper.stl`
+* **Work Performed:** Updated the base in **FreeCAD** to include 3mm holes for the `RearBumper.stl`
 * **File Output:** `Base.stl`
 * **Status:** Complete, Ready for use.
 * **Time Spent:** ~0.10h
@@ -17,10 +23,10 @@
 * **Component:** Side Bumpers
 * **Goal:** Create a 3D model for the 2 side sensors to mount on.
 * **Work Performed:** Designed a back bumper model in **FreeCAD** to protect the robot 
-* **File Output:** `BackBumper.stl`
+* **File Output:** `RearBumper.stl`
 * **Status:** Complete, Ready for testing 
 * **Time Spent:** ~0.40h
-![Status](/photos/BackBumper.png)
+![Status](/photos/RearBumper.png)
 
 
 ### Task: Hardware Modeling
