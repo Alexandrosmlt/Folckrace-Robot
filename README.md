@@ -6,7 +6,7 @@ This is a special autonomous robot made for Folkrace (which is a robot competiti
 
 ## 1.1 Why i am building this project
 
-I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is a great challenge for me to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
+I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is a great challenge to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
 
 ## 2. Hardware and Design
 
