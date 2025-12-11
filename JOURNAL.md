@@ -1,6 +1,17 @@
 ## FOLCKRACE ROBOT
 
 
+# CUSTOM PCB
+ 
+**Date:** 2025-12-11
+
+### Task: PCB Modeling
+* **Component:** PCB
+* **Goal:** Add the symbols to start the PCB.
+* **Work Performed:** Made a custom symbol for the ToF sensors in **KiCAD**. Next it will be the eps32 and the MDD3A motor driver
+* **Status:** Complete.
+* **Time Spent:** ~0.10h
+![Status](/photos/pcb's/pcbV1.png)
 
 **Date:** 2025-12-09
 
