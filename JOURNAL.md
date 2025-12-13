@@ -2,18 +2,34 @@
 
 
 # CUSTOM PCB
- 
-**Date:** 2025-12-11
+
+
+**Date:** 2025-12-13
+
 
 ### Task: PCB Modeling
 * **Component:** PCB
-* **Goal:** Add the symbols to start the PCB.
-* **Work Performed:** Made a custom symbol for the ToF sensors in **KiCAD**. Next it will be the eps32 and the MDD3A motor driver
+* **Goal:** Continue making the symbols to start the PCB.
+* **Work Performed:** Custom symbols for the ESP32 and MDD3A were created in **KiCAD** and the compoments were all connected together.
+* **Status:** Complete.
+* **Time Spent:** ~0.50h
+![Status](/photos/pcb's/pcbV2.png)
+ 
+
+**Date:** 2025-12-11
+
+
+### Task: PCB Modeling
+* **Component:** PCB
+* **Goal:** Make the symbols to start the PCB.
+* **Work Performed:** Made a custom symbol for the ToF sensors in **KiCAD**. Next i will create the symbols for the esp32 and mdd3a motor driver
 * **Status:** Complete.
 * **Time Spent:** ~0.10h
 ![Status](/photos/pcb's/pcbV1.png)
 
+
 **Date:** 2025-12-09
+
 
 # HARDWARE MODELING COMPLETED
 
