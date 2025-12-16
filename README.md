@@ -2,46 +2,102 @@
 
 ## 1. Project Overview
 
-This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features 4 HS DC Motors paired with 5 ToF sensors, providing precise feedback in real time.
+#### This is a special autonomous robot made for Folkrace (which is a robot competition centered around autonomous racing and steering skills). My design features 4 HS DC Motors paired with 5 ToF sensors, providing precise feedback in real time.
 
 ## 1.1 Why i am building this project
 
-I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is a great challenge to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
+#### I am making this project to get real-life experience in developing complex systems and working with fast robotics controls. This project is great to help me improve my skills in putting together microcontrollers, motor drivers and sensors all to create a autonomous and competitive robot.
 
 ## 2. Hardware and Design
 
-### 2.1 3D Model Visualization
+### 2.1 3D Visualization
 
 * **Front View**:
+
 ![Front](/photos/Front.png)
 * **Rear View**:
+
 ![Rear](/photos/Rear.png)
 * **Right View**:
+
 ![Right](/photos/Right.png)
 * **Left View**:
+
 ![Left](/photos/Left.png)
 * **Final View**:
+
 ![Final](/photos/Final.png)
 
 
-<!-- ### 2.2 Custom PCB Design 
+### 2.2 Custom PCB 
 
+* **PCB Top View**:
 
-* **PCB Screenshot**:
+![Top](/photos/pcb/PcbTop.png)
+
+* **PCB Bottom View**:
+
+![Bottom](/photos/pcb/PcbBottom.png)
+
+* **PCB Schematic**:
+
+![Schematic](/photos/pcb/PcbScmtc.png)
+
 
 ### 2.3 Wiring Diagram
 
-* **Wiring Diagram**:
+* **Wiring diagram**:
 
-## 3. Filmware and control
+![Wires!!](/photos/pcb/WiringDiagram.png)
 
-The robots autonomy is managed using the **ESP32** microcontroller programed in Arduino IDE.
+### 2.4 Pinout
 
-* **Control System**: The primary control loop runs on the ESP32, using feedback from the ToF sensors to calculate the robot's position and speed relative to the track boundaries.
+#### 1. ToF Sensor Connections (5 Sensors)
 
-* **Actuators**: The Cytron MDD3A motor driver controls the four 6V DC motors, implementing a high-frequency PWM signal for precise velocity and steering control.
+>| Component | Function | ESP32 Pin |
+>| :--- | :--- | :--- |
+>| **I2C Bus** | Data Line (SDA) | **GPIO 21** |
+>| **I2C Bus** | Clock Line (SCL) | **GPIO 22** |
+>| ToF 1 | XSHUT Pin | **GPIO 33** |
+>| ToF 2 | XSHUT Pin | **GPIO 32** |
+>| ToF 3 | XSHUT Pin | **GPIO 27** |
+>| ToF 4 | XSHUT Pin | **GPIO 26** |
+>| ToF 5 | XSHUT Pin | **GPIO 25** |
 
-* **Sensors**: Five VL53L0X Time-of-Flight (ToF) sensors provide accurate distance readings. -->
+#### Motor Driver (MDD3A)
+
+>| MDD3A | Motor | Function | ESP32 Pin |
+>| :--- | :--- | :--- | :--- |
+>| M1A | Motor 1 | Forward Speed | **GPIO 19** |
+>| M1B | Motor 1 | Reverse Speed | **GPIO 18** |
+>| M2A | Motor 2 | Forward Speed | **GPIO 14** |
+>| M2B | Motor 2 | Reverse Speed | **GPIO 13** |
+
+#### 3. Total Used Pins
+
+>| Type | Pin Numbers Used | Total |
+>| :--- | :--- | :--- |
+>| **Motor Driver (PWM)** | 19, 18, 14, 13 | 4 |
+>| **I2C** | 21, 22 | 2 |
+>| **ToF XSHUT** | 33, 32, 27, 26, 25 | 5 |
+>| **TOTAL GPIO PINS USED** | | **11** |
+
+
+
+
+
+## 3.Filmware
+
+### Summury of [Code](/firmware/Folkrace.ino) (**NOT TESTED**):
+
+#### 1.Setup: The ESP32 initializes Wi-Fi, OTA and I2C bus and configures all ToF's and assigns them a unique addresses.
+
+#### 2.Imput: The main loop is reading the distance from all the sensors and compines them using weighted coefficients to calculate a single positional error.
+
+#### 3.Control: It gets the error and feeds it in the PID controller, which calculates the correction needed to reduce the error to 0.
+
+#### 4.Output: The correction finaly is applied to the motors using PWM signals.
+
 
 ## 4. Bill of Materials (BOM)
 
