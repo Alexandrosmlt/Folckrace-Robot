@@ -1,7 +1,57 @@
 ## FOLCKRACE ROBOT
 
+## Total Time Spent:
+
+
+
+**Date:** 2025-12-16
+### Task: Filmware
+* **Goal:** Make The code for the ESP32
+* **Work Performed:** Made a completed version for the Robot that uses OTA for updates and PID to calculate the weight which gets processed and drives the motors to zero error.
+* **Status:** Complete.
+* **Time Spent:** ~1.30h
+
+[Code](/firmware/Folkrace.ino)
+
+
+# PCB MODELING COMPLETED
+
+## **Final PCB:**
+
+![Final](/photos/pcb/PcbTop.png)
+
+
 # CUSTOM PCB
 
+
+### Task: PCB Modeling
+* **Component:** PCB
+* **Goal:** Finish the PCB.
+* **Work Performed:** Placed the connectors and connected everything in a 2 layer PCB
+* **Status:** Complete.
+* **Time Spent:** ~2.30h
+![Status](/photos/pcb/PcbScmtc.png)
+
+
+**Date:** 2025-12-15
+
+
+### Task: PCB Modeling
+* **Component:** PCB
+* **Goal:** Make the edge cuts for the PCB.
+* **Work Performed:** Made the edge cuts and added the compoments to the pcb editor
+* **Status:** Complete.
+* **Time Spent:** ~0.30h
+![Status](/photos/pcb/pcbV3.png)
+ 
+
+### Task: Hardware Modeling
+* **Component:** Base
+* **Goal:** Make .svg for the PCB
+* **Work Performed:** Made the base witish graphics to put everything together
+* **Status:** Complete.
+* **Time Spent:** ~0.40h
+![Status](/photos/pcb/BaseTraces.png)
 
 **Date:** 2025-12-13
 
@@ -12,7 +62,7 @@
 * **Work Performed:** Custom symbols for the ESP32 and MDD3A were created in **KiCAD** and the compoments were all connected together.
 * **Status:** Complete.
 * **Time Spent:** ~0.50h
-![Status](/photos/pcb's/pcbV2.png)
+![Status](/photos/pcb/pcbV2.png)
  
 
 **Date:** 2025-12-11
@@ -24,7 +74,7 @@
 * **Work Performed:** Made a custom symbol for the ToF sensors in **KiCAD**. Next i will create the symbols for the esp32 and mdd3a motor driver
 * **Status:** Complete.
 * **Time Spent:** ~0.10h
-![Status](/photos/pcb's/pcbV1.png)
+![Status](/photos/pcb/pcbV1.png)
 
 
 **Date:** 2025-12-09
