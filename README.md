@@ -98,6 +98,14 @@
 
 #### 4.Output: The correction finaly is applied to the motors using PWM signals.
 
+## 3D Printed Parts
+
+### Parts List
+
+* **[Front Bumper](/STLs/FrontBumper.stl)** (Quantity: 1)
+* **[Rear Bumper](/STLs/RearBumper.stl)** (Quantity: 1)
+* **[Side Bumpers](/STLs/SideBumper.stl)** (Quantity: 2)
+* **[Motor Mounts](/STLs/MotorMount.stl)** (Quantity: 4)
 
 ## 4. Bill of Materials (BOM)
 

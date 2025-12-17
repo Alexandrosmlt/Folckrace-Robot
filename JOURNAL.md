@@ -1,7 +1,6 @@
 ## FOLCKRACE ROBOT
 
-## Total Time Spent:
-
+## Total Time Spent: ~ 13h
 
 
 **Date:** 2025-12-16
@@ -10,8 +9,7 @@
 * **Work Performed:** Made a completed version for the Robot that uses OTA for updates and PID to calculate the weight which gets processed and drives the motors to zero error.
 * **Status:** Complete.
 * **Time Spent:** ~1.30h
-
-[Code](/firmware/Folkrace.ino)
+* [Code](/firmware/Folkrace.ino)
 
 
 # PCB MODELING COMPLETED
