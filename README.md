@@ -107,7 +107,7 @@
 * **[Side Bumpers](/STLs/SideBumper.stl)** (Quantity: 2)
 * **[Motor Mounts](/STLs/MotorMount.stl)** (Quantity: 4)
 
-## 4. Bill of Materials (BOM)
+<!-- ## 4. Bill of Materials (BOM)
 
 | Item | Description | Quantity | Unit Price (€) | Total Price (€) | URL | Running Total (€ with Tax) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -121,4 +121,4 @@
 | **Pin Header** | Pin Header Female 1x6 2.54mm | 6 | 0.08 | 0.64 | [https://grobotronics.com](https://grobotronics.com/pin-header-1x6-female-2.54mm.html) | 139.14 |
 | **Pin Header** | Pin Header 1x20 Female 2.54mm| 2 | 0.25 | 0.50 | [https://grobotronics.com](https://grobotronics.com/pin-header-1x20-female-2.54mm.html) | 139.64 |
 | **PCB Manufacturing** | PCBWay | 5 | $47.78 | $75.75 | [https://www.pcbway.com](https://www.pcbway.com/QuickOrderOnline.aspx) | 215.39 |
-
+ -->
