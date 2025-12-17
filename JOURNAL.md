@@ -4,6 +4,8 @@
 
 
 **Date:** 2025-12-16
+
+
 ### Task: Filmware
 * **Goal:** Make The code for the ESP32
 * **Work Performed:** Made a completed version for the Robot that uses OTA for updates and PID to calculate the weight which gets processed and drives the motors to zero error.
@@ -50,6 +52,7 @@
 * **Status:** Complete.
 * **Time Spent:** ~0.40h
 ![Status](/photos/pcb/BaseTraces.png)
+
 
 **Date:** 2025-12-13
 
@@ -224,7 +227,6 @@
 * **Status:** Complete, Ready for import.
 * **Time Spent:** ~0.30h
 ![Status](/photos/mdd3a.png)
-
 
 
 **Date:** 2025-12-04
