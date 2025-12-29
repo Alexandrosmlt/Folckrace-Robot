@@ -1,6 +1,29 @@
 ## FOLCKRACE ROBOT
 
-## Total Time Spent: ~ 13h
+## Total Time Spent: ~ 15h
+
+# UPDATES
+
+
+**Date:** 2025-12-16
+
+
+### Task: Hardware Modeling
+* **Component:** Rear Bumper Bumpers
+* **Work Performed:** Made a 2mm hole for the screw from `TopCover.stl`
+* **File Output:** `RearBumper.stl`
+* **Status:** Complete
+* **Time Spent:** ~0.40h
+![Status](/photos/RearBumperV1.png)
+
+### Task: Hardware Modeling
+* **Component:** Top Cover
+* **Goal:** Make something to cover the top of the robot 
+* **Work Performed:** Made the top cover for the robot
+* **File Output:** `TopCover.stl`
+* **Status:** Complete.
+* **Time Spent:** ~0.40h
+![Status](/photos/TopCover.png)
 
 
 **Date:** 2025-12-16
@@ -48,7 +71,7 @@
 ### Task: Hardware Modeling
 * **Component:** Base
 * **Goal:** Make .svg for the PCB
-* **Work Performed:** Made the base witish graphics to put everything together
+* **Work Performed:** Made the base with graphics to put everything together
 * **Status:** Complete.
 * **Time Spent:** ~0.40h
 ![Status](/photos/pcb/BaseTraces.png)
@@ -157,7 +180,7 @@
 * **File Output:** `FrontBumper.stl`
 * **Status:** Complete, Ready for printing 
 * **Time Spent:** ~1.20h
-![Status](/photos/FrontBumper.png)
+![Status](/photos/FrontBumper.png)* **File Output:** `Wheel.stl`
 
 
 ### Task: Hardware Modeling
